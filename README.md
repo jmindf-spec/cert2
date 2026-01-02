@@ -1,2 +1,11 @@
-# cert2
-Промежуточная аттестация по модулю 2
+Инструкция по командам GIT:
+
+- git init
+
+- git status
+
+- git add
+
+- git commit -m "message"
+
+- git log
