@@ -54,10 +54,29 @@ git log
 ```
 
 ## <a id="title2">git status</a>
-контент
+Команда `git status` показывает состояния файлов в рабочем каталоге и индексе: какие файлы изменены, но не добавлены в индекс; какие ожидают коммита в индексе. Вдобавок к этому выводятся подсказки о том, как изменить состояние файлов.
+```
+F:\PY\LMS\cert2>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+```
 
 ## <a id="title3">git add</a>
-контент
+Команда `git add` добавляет содержимое рабочего каталога в индекс (staging area) для последующего коммита. По умолчанию git commit использует лишь этот индекс, так что вы можете использовать git add для сборки слепка вашего следующего коммита.
+
+Это одна из ключевых команд Git.
+Чтобы начать отслеживание файла README, вы можете выполнить следующее:
+```
+git add README
+```
+
 
 ## <a id="title4">git commit -m "message"</a>
 контент
