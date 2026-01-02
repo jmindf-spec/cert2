@@ -1,11 +1,26 @@
 Инструкция по командам GIT:
 
-- git init
+[Перейти к git init](#title1)
 
-- git status
+[Перейти к git status](#title2)
 
-- git add
+[Перейти к git add](#title3)
 
-- git commit -m "message"
+[Перейти к git commit -m "message"](#title4)
 
-- git log
+[Перейти к git log](#title5)
+
+## <a id="title1">git init</a>
+контент
+
+## <a id="title2">git init</a>
+контент
+
+## <a id="title3">git init</a>
+контент
+
+## <a id="title4">git init</a>
+контент
+
+## <a id="title5">git init</a>
+контент
