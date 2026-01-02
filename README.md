@@ -11,7 +11,7 @@
 [Перейти к git log](#title5)
 
 ## <a id="title1">git init</a>
-Команда **git init** создает новый репозиторий **Git** в текущей директории. Что происходит при выполнении:
+Команда `git init` создает новый репозиторий **Git** в текущей директории. Что происходит при выполнении:
 
 - Создается скрытая папка **.git** в корне проекта.
 
@@ -53,14 +53,14 @@ git status
 git log
 ```
 
-## <a id="title2">git init</a>
+## <a id="title2">git status</a>
 контент
 
-## <a id="title3">git init</a>
+## <a id="title3">git add</a>
 контент
 
-## <a id="title4">git init</a>
+## <a id="title4">git commit -m "message"</a>
 контент
 
-## <a id="title5">git init</a>
+## <a id="title5">git log</a>
 контент
